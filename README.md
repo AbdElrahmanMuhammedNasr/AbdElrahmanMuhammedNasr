@@ -13,11 +13,11 @@
 ### Connect with me :
 
 <a href="https://www.linkedin.com/in/abdelrahman-mohamed-074098167/"> 
-    <span> <img   width="22px" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fkia-online.com%2Flocation%2Blogo%2Bicon%2Bpng%2Bpng%2Bimages%2Bvector%2Bpsd%2Bsvg%2Blinkedin.htm&psig=AOvVaw0EGoJWVDp4h4RydyRS7ta8&ust=1614636034910000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjw5Y7Kje8CFQAAAAAdAAAAABAD" /> </span>
+    <span> <img width="50px"  src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>  </span>
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=100005204899087"> 
-    <span> <img   width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficons%2Fset%2Ffacebook&psig=AOvVaw0qjqDOuDZhQqy92pjND-Km&ust=1614635999022000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJitp_3Jje8CFQAAAAAdAAAAABAD" /> </span>
+    <span> <img   width="50px"  src="https://img.icons8.com/clouds/100/000000/facebook-new.png" /> </span>
 </a>
 
 
@@ -27,8 +27,6 @@
 
 
 <div >
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
     <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
     <img  align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
     <img  align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
