@@ -1,13 +1,10 @@
 ### Hi there, I'm AbdElrahman
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=AbdElrahmanMuhammedNasr&color=FAC151)][1]
 
-
-## I'm a  Developer !!
+## I'm a  Software Engineer !!
 
 - 🔭 I want to be the best
 - 🌱 I’m currently learning machine learning  
-
 
 
 ### Connect with me :
