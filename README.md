@@ -12,8 +12,14 @@
 
 ### Connect with me :
 
-<img   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[https://www.linkedin.com/in/abdelrahman-mohamed-074098167/]
-<img   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />[https://www.facebook.com/profile.php?id=100005204899087]
+<a href="https://www.linkedin.com/in/abdelrahman-mohamed-074098167/"> 
+    <span> <img   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </span>
+</a>
+
+<a href="https://www.linkedin.com/in/abdelrahman-mohamed-074098167/"> 
+    <span> <img   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> </span>
+</a>
+
 
 <br />
 
