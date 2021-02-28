@@ -1,7 +1,7 @@
 ### Hi there, I'm AbdElrahman
 
-!Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-!Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[!Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[!Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a  Developer !!
 
@@ -13,11 +13,11 @@
 ### Connect with me :
 
 <a href="https://www.linkedin.com/in/abdelrahman-mohamed-074098167/"> 
-    <span> <img   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </span>
+    <span> <img   width="22px" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fkia-online.com%2Flocation%2Blogo%2Bicon%2Bpng%2Bpng%2Bimages%2Bvector%2Bpsd%2Bsvg%2Blinkedin.htm&psig=AOvVaw0EGoJWVDp4h4RydyRS7ta8&ust=1614636034910000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjw5Y7Kje8CFQAAAAAdAAAAABAD" /> </span>
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=100005204899087"> 
-    <span> <img   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> </span>
+    <span> <img   width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficons%2Fset%2Ffacebook&psig=AOvVaw0qjqDOuDZhQqy92pjND-Km&ust=1614635999022000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJitp_3Jje8CFQAAAAAdAAAAABAD" /> </span>
 </a>
 
 
