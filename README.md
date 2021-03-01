@@ -1,7 +1,7 @@
 ### Hi there, I'm AbdElrahman
 
 
-## I'm a  Software Engineer !!
+## I'm a  Software Engineer.
 
 - 🔭 I want to be the best
 - 🌱 I’m currently learning machine learning  
