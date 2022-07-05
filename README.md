@@ -9,11 +9,18 @@
 <br/>
 <br/>
 
+<kbd>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanmuhammednasr&" alt="abdelrahmanmuhammednasr" /></p>
+</kbd>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahmanmuhammednasr&show_icons=true&locale=en" alt="abdelrahmanmuhammednasr" /></p>
-
+<kbd>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanmuhammednasr&show_icons=true&locale=en&layout=compact" alt="abdelrahmanmuhammednasr" /></p>
+</kbd>
+
+<br/>
+<kbd>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahmanmuhammednasr&show_icons=true&locale=en" alt="abdelrahmanmuhammednasr" /></p>
+</kbd>
 
 
 
