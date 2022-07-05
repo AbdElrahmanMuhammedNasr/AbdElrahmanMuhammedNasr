@@ -1,8 +1,22 @@
+### Hi there, I'm AbdElrahman
+
 <kbd>
 <img style="border-radius:50%" src="https://user-images.githubusercontent.com/34967675/173200471-1aa6861d-2f8b-4cdc-8f54-cf6e8fca56e1.jpg" />
 </kbd>
 
-### Hi there, I'm AbdElrahman
+
+<br/>
+<br/>
+<br/>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanmuhammednasr&" alt="abdelrahmanmuhammednasr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahmanmuhammednasr&show_icons=true&locale=en" alt="abdelrahmanmuhammednasr" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanmuhammednasr&show_icons=true&locale=en&layout=compact" alt="abdelrahmanmuhammednasr" /></p>
+
+
+
 
 
 ## I'm a  Software Engineer.
@@ -59,3 +73,5 @@
         <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
     
 </div>
+
+
