@@ -29,7 +29,8 @@
 ## I'm a  Software Engineer.
 
 - 🔭 I want to be the best
-- 🌱 I’m currently learning machine learning  
+- 🌱 I’m currently learning **Machine learning**
+
 
 
 ### Connect with me :
