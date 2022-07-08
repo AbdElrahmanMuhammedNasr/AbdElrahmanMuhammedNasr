@@ -10,13 +10,13 @@
 <br/>
 
 <kbd>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanmuhammednasr&" alt="abdelrahmanmuhammednasr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanmuhammednasr&theme=dark" alt="abdelrahmanmuhammednasr" /></p>
 </kbd>
 
 
 <br/>
 <kbd>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahmanmuhammednasr&show_icons=true&locale=en" alt="abdelrahmanmuhammednasr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahmanmuhammednasr&show_icons=true&locale=en&theme=dark" alt="abdelrahmanmuhammednasr" /></p>
 </kbd>
 
 <kbd>
