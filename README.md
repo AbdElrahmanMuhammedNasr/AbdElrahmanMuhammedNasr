@@ -86,7 +86,7 @@
 
 <kbd> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a></kbd>
 
-<kbd> <a href="https://www.elastic.co/logstash" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="kibana" width="40" height="40"/> </a></kbd>
+<kbd> <a href="https://www.elastic.co/logstash" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="logstash" width="40" height="40"/> </a></kbd>
 
 
 <kbd><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </kbd> 
