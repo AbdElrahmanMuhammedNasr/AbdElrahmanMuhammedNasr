@@ -1,4 +1,12 @@
-### Hi there, I'm Abdelrahman Nasr
+
+<h1 align="center"><b>Hi there, I'm Abdelrahman Nasr </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->A
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Abdelrahman+/nasr+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+
+<br>
 
 <kbd>
 <img style="border-radius:50%" src="https://user-images.githubusercontent.com/34967675/173200471-1aa6861d-2f8b-4cdc-8f54-cf6e8fca56e1.jpg" />
